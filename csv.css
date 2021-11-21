@@ -1,0 +1,18 @@
+.head {
+    background-color: #b33304f5;
+    margin: 300px;
+    margin-right: 700px;
+}
+
+.page {
+    border-right-color: transparent;
+    border-top-color: darkkhaki;
+    border-left-color: darkmagenta;
+    border-bottom-color: deepskyblue;
+    border-radius: 300px;
+    border-style: solid;
+    border-width: 50px;
+    height: 0px;
+    width: 0px;
+    transform: rotate(45deg);
+}
